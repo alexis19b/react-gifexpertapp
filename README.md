@@ -2,4 +2,4 @@
 
 Primera Aplicacion creada con React.js.
 
-La aplicacion consume recurso de API.
+La aplicacion consume recurso de una API.
