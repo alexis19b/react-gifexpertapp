@@ -4,4 +4,4 @@ Primera Aplicacion creada con React.js.
 
 La aplicacion consume recurso de una API.
 
-link https://github.com/alexis19b/react-gifexpertapp/
+link https://alexis19b.github.io/react-gifexpertapp/
